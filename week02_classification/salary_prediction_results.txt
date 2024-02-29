@@ -1,0 +1,37 @@
+# Only using descriptions
+
+epoch: 0
+
+12239it [04:43, 43.15it/s]                                                                                                                
+
+ results:
+Mean square error: 0.20907
+Mean absolute error: 0.35823
+epoch: 1
+
+12239it [04:55, 41.35it/s]                                                                                                                
+
+ results:
+Mean square error: 0.18351
+Mean absolute error: 0.33404
+epoch: 2
+
+12239it [04:52, 41.88it/s]                                                                                                                
+
+ results:
+Mean square error: 0.16980
+Mean absolute error: 0.32273
+epoch: 3
+
+12239it [04:56, 41.33it/s]                                                                                                                
+
+ results:
+Mean square error: 0.15528
+Mean absolute error: 0.30661
+epoch: 4
+
+12239it [04:53, 41.65it/s]                                                                                                                
+
+ results:
+Mean square error: 0.14709
+Mean absolute error: 0.29328
